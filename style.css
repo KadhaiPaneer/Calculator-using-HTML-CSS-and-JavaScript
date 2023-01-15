@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Playfair Display', serif;
+}
+.button{
+      width: 66px;
+    padding: 20px;
+    margin: 4px 2px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    FONT-SIZE: larger;
+}
+}
+
+.row{
+  margin: 1px 0;
+}
+
+.row input{
+   font-size: 28px;
+    padding: 15px;
+    width: 258px;
+    margin: 9px;
+    border: 2px solid black;
+    border-radius: 16px;
+   font-size: large;
+}
